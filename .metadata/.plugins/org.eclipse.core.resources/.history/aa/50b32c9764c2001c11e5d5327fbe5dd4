@@ -1,0 +1,10 @@
+package vehicleVacation;
+
+public class Vacation {
+
+	Vehilce myVehilce;
+	
+	public void startVacation(Vehilce myVehilce) {
+		myVehilce.run();
+	}
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="vehicleVacation.Vehilce"/>
+    <fullyQualifiedTypeName name="vehicleVacation.Car"/>
+    <fullyQualifiedTypeName name="vehicleVacation.Vacation"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="constructArgs.CalculateArea"/>
+</qualifiedTypeNameHistroy>

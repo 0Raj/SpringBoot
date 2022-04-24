@@ -1,0 +1,5 @@
+package autoWire;
+
+public class DAOBean {
+
+}

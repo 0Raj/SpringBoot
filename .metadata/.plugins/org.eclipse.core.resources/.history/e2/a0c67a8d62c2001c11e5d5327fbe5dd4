@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.masai</groupId>
+  <artifactId>firstSpring</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.bootclasspath>C:\Program Files\Java\jdk1.8.0_101\jre\lib\rt.jar${path.separator}C:\Program Files\Java\jdk1.8.0_101\jre\lib\jsse.jar${path.separator}C:\Program Files\Java\jdk1.8.0_101\jre\lib\jce.jar</maven.compiler.bootclasspath>
+</properties>
+  
+</project>
