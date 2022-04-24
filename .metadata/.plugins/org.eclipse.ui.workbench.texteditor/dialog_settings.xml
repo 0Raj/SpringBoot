@@ -6,7 +6,10 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
+		<item key="selection" value="triangle"/>
 		<list key="findhistory">
+			<item value="triangle"/>
+			<item value="/AutoWiringPractice/src/main/java/autoWire/DAOBean.java"/>
 		</list>
 		<list key="replacehistory">
 		</list>

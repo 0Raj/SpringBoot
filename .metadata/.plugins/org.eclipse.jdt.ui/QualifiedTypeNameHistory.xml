@@ -3,7 +3,11 @@
     <fullyQualifiedTypeName name="vehicleVacation.Vehilce"/>
     <fullyQualifiedTypeName name="vehicleVacation.Car"/>
     <fullyQualifiedTypeName name="vehicleVacation.Vacation"/>
+    <fullyQualifiedTypeName name="constructArgs.CalculateArea"/>
+    <fullyQualifiedTypeName name="com.shapes.Shapes"/>
+    <fullyQualifiedTypeName name="com.shapes.DrawShapes"/>
+    <fullyQualifiedTypeName name="com.calculater.Calculation"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-    <fullyQualifiedTypeName name="constructArgs.CalculateArea"/>
+    <fullyQualifiedTypeName name="com.calculater.ServiceLayer"/>
 </qualifiedTypeNameHistroy>
