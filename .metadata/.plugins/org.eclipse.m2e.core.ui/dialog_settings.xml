@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="/home/raj/Documents/MySpring/firstSpring"/>
 			<item value="/home/raj/Documents/MySpring/Drawshapes"/>
 			<item value="/home/raj/Documents/MySpring/AutoWiringPractice"/>
 		</list>
@@ -45,6 +46,7 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="Evaluation3"/>
 			<item value="Calculater"/>
 			<item value="Drawshapes"/>
 			<item value="AutoWiring"/>
@@ -53,6 +55,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Evaluation3"/>
 			<item value="Calculater"/>
 			<item value="Drawshapes"/>
 			<item value="AutoWiringPractice"/>

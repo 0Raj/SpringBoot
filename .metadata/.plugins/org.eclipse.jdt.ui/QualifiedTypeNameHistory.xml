@@ -7,7 +7,12 @@
     <fullyQualifiedTypeName name="com.shapes.Shapes"/>
     <fullyQualifiedTypeName name="com.shapes.DrawShapes"/>
     <fullyQualifiedTypeName name="com.calculater.Calculation"/>
+    <fullyQualifiedTypeName name="com.calculater.ServiceLayer"/>
+    <fullyQualifiedTypeName name="question1.SocialMedia"/>
+    <fullyQualifiedTypeName name="question3.Shape"/>
+    <fullyQualifiedTypeName name="question3.ServiceLayer"/>
     <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
     <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
-    <fullyQualifiedTypeName name="com.calculater.ServiceLayer"/>
+    <fullyQualifiedTypeName name="question3.PresentationLayer"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

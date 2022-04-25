@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id="rectangle" class="question3.Rectangle">
+	<property name="length" value="6"/>
+	<property name="breadth" value="4"/>
+	</bean>
+	
+	<bean id="square" class="question3.Square">
+	<property name="side" value="4"/>
+	</bean>
+	
+	<bean id="circle" class="question3.Circle">
+	<property name="radius" value="4"/>
+	</bean>
+	
+	<bean id="service" class="question3.ServiceLayer">
+	<property name="shape" ref="circle"/>
+	</bean>
+	
+	<bean id="present" class="question3.PresentationLayer">
+	<property name="service" ref="service"/>
+	</bean>
+</beans>
