@@ -6,8 +6,9 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="triangle"/>
+		<item key="selection" value="getClass"/>
 		<list key="findhistory">
+			<item value="getClass"/>
 			<item value="triangle"/>
 			<item value="/AutoWiringPractice/src/main/java/autoWire/DAOBean.java"/>
 		</list>

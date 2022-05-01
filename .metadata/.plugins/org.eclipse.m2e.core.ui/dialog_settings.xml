@@ -46,6 +46,7 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="SpringAssignment2"/>
 			<item value="Evaluation3"/>
 			<item value="Calculater"/>
 			<item value="Drawshapes"/>
@@ -55,6 +56,7 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SpringAssignment2"/>
 			<item value="Evaluation3"/>
 			<item value="Calculater"/>
 			<item value="Drawshapes"/>
