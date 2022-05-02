@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 import assignment1.DAOBean.Employee;
 
 @Configuration
-@ComponentScan (basePackages = "/SpringAssignment2/src/main/java")
+@ComponentScan (basePackages = "assignment1")
 public class AppConfig {
 
 	@Bean

@@ -9,7 +9,7 @@ import org.springframework.stereotype.Controller;
 import assignment1.DAOBean.Employee;
 import assignment1.DataAccessLayer.EmployeeRepoImplements;
 
-@Controller
+@Controller(value="present")
 public class Presentation {
 	
 	@Autowired
