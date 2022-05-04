@@ -41,7 +41,6 @@ public class Employee {
 	}
 	public Employee(String empName, String empAdress, double salary) {
 		super();
-		this.empId = empId;
 		this.empName = empName;
 		this.empAdress = empAdress;
 		this.salary = salary;
